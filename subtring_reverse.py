@@ -12,3 +12,4 @@ list2 = [[8,1,4],[7,9,2],[3,1],[4,8]]
 print(list2)
 list4 = arr(list2)
 print(list4)
+# comment optimise
